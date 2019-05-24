@@ -1,0 +1,5 @@
+Segment_ID,Segment_Name,Month,Year,Segment_discharge,Note
+1,Seg1a,1,2019,10.58,
+1,Seg1b,2,2019,8.26,
+2,Seg2a,1,2019,9.35,
+2,Seg2b,2,2019,6.98,

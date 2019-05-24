@@ -1,0 +1,5 @@
+Segment_ID,Segment_Name,Control_Unit,Month,Year,COD_WEC,Ammonia_WEC,Note
+1,Seg1a,C1,1,2019,25,7,
+1,Seg1b,C2,2,2019,23,8,
+2,Seg2a,C3,1,2019,39,3,
+2,Seg2b,C4,2,2019,42,4,
